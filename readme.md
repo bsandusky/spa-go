@@ -8,3 +8,5 @@ SPA-like application written in Go, using built-in templating and no(t very much
 - Severely limit the amount of JS on the front-end specifically to only necessary page-specific interactions
 - Build an SPA-like application that can dynamically change based on the URL without an entire JS front-end app with its own runtime
 - Explore ways to make template <> BE communications more RESTful, at least in spirit
+- Design a lightweight but feasible front-end router system
+- Write modular, testable code
